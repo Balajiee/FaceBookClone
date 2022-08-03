@@ -44,23 +44,23 @@ export default function RightBar({profile}) {
       <div className="rightBarFollowings">
         <div className="rightBarFollowing">
           <img src="assets/person/1.jpeg" alt="" className="rightBarFollowingImg" />
-          <span className="rightBarFollowingName"> Aleena</span>
+          <span className="rightBarFollowingName"> Kathir</span>
         </div>
         <div className="rightBarFollowing">
           <img src="assets/person/2.jpeg" alt="" className="rightBarFollowingImg" />
-          <span className="rightBarFollowingName"> Aleena</span>
+          <span className="rightBarFollowingName"> Dinesh Kumar</span>
         </div>
         <div className="rightBarFollowing">
           <img src="assets/person/3.jpeg" alt="" className="rightBarFollowingImg" />
-          <span className="rightBarFollowingName"> Aleena</span>
+          <span className="rightBarFollowingName"> Sudharshan</span>
         </div>
         <div className="rightBarFollowing">
           <img src="assets/person/4.jpeg" alt="" className="rightBarFollowingImg" />
-          <span className="rightBarFollowingName"> Aleena</span>
+          <span className="rightBarFollowingName"> Fari</span>
         </div>
         <div className="rightBarFollowing">
           <img src="assets/person/5.jpeg" alt="" className="rightBarFollowingImg" />
-          <span className="rightBarFollowingName"> Aleena</span>
+          <span className="rightBarFollowingName"> Nithya</span>
         </div>
         <div className="rightBarFollowing">
           <img src="assets/person/6.jpeg" alt="" className="rightBarFollowingImg" />
